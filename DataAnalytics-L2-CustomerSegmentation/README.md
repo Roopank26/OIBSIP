@@ -257,7 +257,7 @@ A comprehensive PDF report is available at `reports/Customer_Segmentation_Report
 
 ## Author
 
-**Data Science Team**  
+**Roopank Battu**  
 Oasis Infobyte Data Analytics Internship  
 Project: Customer Segmentation Analysis
 
